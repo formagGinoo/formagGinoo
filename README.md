@@ -1,7 +1,7 @@
 <h1 align="center">who are u?</h1>
 
 <p align="center">
-  <a href="https://www.envisioning.com/vocab/church-turing-thesis">
+  <a href="https://www.envisioning.com/vocab/church-turing-thesis" target="_blank">
     <img src="https://i.imgur.com/HcllHk6.jpeg" alt="Profile Image" />
   </a>
 </p>
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/399933550327234563">
+  <a href="https://discord.com/users/399933550327234563" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/399933550327234563" alt="Discord Presence">
   </a>
 </p>
